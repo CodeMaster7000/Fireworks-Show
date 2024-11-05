@@ -1,3 +1,3 @@
 # Fireworks Show
 
-A colourful HTML, CSS, & Vanilla JS fireworks show to celebrate Guy Fawkes’ Night! Simply download `src` and run in your terminal.
+A colourful fireworks show, made in HTML/CSS/Vanilla JS, to celebrate Guy Fawkes’ Night! Simply download `src` and run in your terminal.
